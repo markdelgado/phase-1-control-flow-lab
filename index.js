@@ -1,9 +1,13 @@
-function scuberGreetingForFeet(){
-  // Write your code here!
+function scuberGreetingForFeet(someValue){
+  let result;
+  if (someValue > 400) {
+    return result = 'This one is on me!'
+  }
 }
 
+
 function ternaryCheckCity(){
-  // Write your code here!
+ 
 }
 
 function switchOnCharmFromTip(){
